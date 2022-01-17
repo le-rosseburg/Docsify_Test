@@ -12,6 +12,27 @@ Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroo
 </figure>
 </center>
 
+---
+
+**Links**
+
+![CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
+
+<a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>.
+
+**Videos**
+
+![Digital & Physical Structure of the Fischertechnik Production System](https://youtu.be/EaadN3R4mmk)
+
+<figure>
+  <iframe width="560" height="315" src="https://youtu.be/EaadN3R4mmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
+  <figcaption style="text-align:center;font-size:14px;">Video 1: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System.</figcaption>
+</figure>
+
+---
+
 <h2>Webinar 1 (W1):</h2>
 
 Das Train the Trainer Weiterbildungsangebot startet mit einem gemeinsamen Kick-Off. Das Webinar findet online statt und dient der Einführung in das Themenfeld. Ziel ist es, Ihnen die wichtigsten Grundlagen zu Open Educational Resources näher zu bringen und Sie auf die folgende Selbstlerneinheit vorzubereiten.
