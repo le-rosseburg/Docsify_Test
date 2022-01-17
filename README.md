@@ -22,13 +22,16 @@ Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroo
 
 **Videos**
 
-?[Digital & Physical Structure of the Fischertechnik Production System](https://youtu.be/EaadN3R4mmk)
-
-[Digital & Physical Structure of the Fischertechnik Production System](https://youtu.be/EaadN3R4mmk)
+[Video 1](https://youtu.be/EaadN3R4mmk ':include')
 
 <figure>
   <iframe width="560" height="315" src="https://youtu.be/EaadN3R4mmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
   <figcaption style="text-align:center;font-size:14px;">Video 1: Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System.</figcaption>
+</figure>
+
+<figure>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E955up7vtCk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Urheberrecht von und für Nicht-Jurist:innen"></iframe>
+  <figcaption style="text-align:center;font-size:14px;">Video 1: <a aria-describedby="Link zum Video (YouTube)" href="https://www.youtube.com/watch?v=E955up7vtCk&ab_channel=NeleHirsch">Urheberrecht für Nicht-Jurist:innen</a> von Nele Hirsch, lizenziert unter <a aria-describedby="Link zur Seite (Creative Commons)" href="https://creativecommons.org/publicdomain/zero/1.0/">CC 0 (1.0)</a></figcaption>
 </figure>
 
 ---
