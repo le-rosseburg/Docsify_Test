@@ -22,7 +22,9 @@ Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroo
 
 **Videos**
 
-[Video 1](https://youtu.be/EaadN3R4mmk ':include')
+[Video 1](https://youtu.be/EaadN3R4mmk ':include :type=video')
+
+[Video 1](https://youtu.be/EaadN3R4mmk ':include :type=iframe')
 
 <figure>
   <iframe width="560" height="315" src="https://youtu.be/EaadN3R4mmk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen name="Introduction Learning Factory: Digital & Physical Structure of the Fischertechnik Production System"></iframe>
