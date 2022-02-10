@@ -4,9 +4,11 @@
 
 * [Übersicht](./)
 
-  * [#1](./# Herzlich Willkommen)
+  * [#1](./#HerzlichWillkommen)
 
   * [#2](./#2)
+
+  * [#3](#3)
 
 * [1: OER erkennen](step1.md)
 
