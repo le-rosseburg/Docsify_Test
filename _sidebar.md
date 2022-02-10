@@ -4,9 +4,9 @@
 
 * [Übersicht](./)
 
-  * <a href="./#/README#1">#1</a>
+  * <a href="./#/README_1">#1</a>
 
-  * <a href="./#/README?id=2">#2</a>
+  * <a href="./#/README?id=_2">#2</a>
 
   * <a href="./#/README#_3">#3</a>
 
