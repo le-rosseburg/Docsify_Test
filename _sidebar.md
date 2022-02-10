@@ -4,11 +4,11 @@
 
 * [Übersicht](./)
 
-  * [#1](./#HerzlichWillkommen)
+  * <a href="./#1">#3</a>
 
-  * [#2](./#2)
+  * <a href="#2">#3</a>
 
-  * [#3](#3)
+  * <a href="./README.md#3">#3</a>
 
 * [1: OER erkennen](step1.md)
 
