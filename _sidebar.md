@@ -4,6 +4,10 @@
 
 * [Übersicht](./)
 
+  * [#1](./# Herzlich Willkommen)
+
+  * [#2](./#2)
+
 * [1: OER erkennen](step1.md)
 
 * [2: OER finden und nutzen](step2.md)
