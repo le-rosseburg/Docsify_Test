@@ -32,12 +32,12 @@ Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroo
 
 ---
 
-## 2
+## test2
 
-### 3
+### test3
 
 
-<h2 id="3">Webinar 1 (W1):</h2>
+<h2 id="webinar1">Webinar 1 (W1):</h2>
 
 Das Train the Trainer Weiterbildungsangebot startet mit einem gemeinsamen Kick-Off. Das Webinar findet online statt und dient der Einführung in das Themenfeld. Ziel ist es, Ihnen die wichtigsten Grundlagen zu Open Educational Resources näher zu bringen und Sie auf die folgende Selbstlerneinheit vorzubereiten.
 
