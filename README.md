@@ -37,7 +37,7 @@ Die Challenge ist als digitales Lehr-Lernsetting im Prinzip des flipped classroo
 ### 3
 
 
-<h2>Webinar 1 (W1):</h2>
+<h2 id="3">Webinar 1 (W1):</h2>
 
 Das Train the Trainer Weiterbildungsangebot startet mit einem gemeinsamen Kick-Off. Das Webinar findet online statt und dient der Einführung in das Themenfeld. Ziel ist es, Ihnen die wichtigsten Grundlagen zu Open Educational Resources näher zu bringen und Sie auf die folgende Selbstlerneinheit vorzubereiten.
 
@@ -60,7 +60,7 @@ Im dritten Schritt werden Sie dabei unterstützt, Materialien, die für Präsenz
 
 </font>
 
-<h2>Praxisworkshop (P):</h2>
+<h2 id="#3">Praxisworkshop (P):</h2>
 
 Der Praxisworkshop dient der Diskussion der Inhalte der Schritte 1-3 der Selbstlernphase und bietet Raum zur Klärung von Fragen. Inhaltlich steht die Vermittlung von Grundlagen zu dem Programm LiaScript zur Erstellung von offenen Lehr-/Lerneinheiten im Zentrum des Workshops. Ziel ist es, Ihnen die wichtigsten LiaScript-Funktionen sowie die Basics der Auszeichnungssprache Markdown näher zu bringen.
 
