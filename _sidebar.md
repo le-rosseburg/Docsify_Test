@@ -6,13 +6,13 @@
 
   * <a href="./#/README#_1">#1</a>
 
-  * <a href="./#/README#_test2">#2</a>
+  * <a href="./#/README#test2">#2</a>
 
-  * <a href="./#/README#_3">#3</a>
+  * <a href="./#/README#test3">#3</a>
 
-  * <a href="./#/README#_webinar1">#3</a>
+  * <a href="./#/README#_webinar1">#4</a>
 
-  * <a href="./#/README#webinar1">#3</a>
+  * <a href="./#/README#webinar1">#4</a>
 
 * [1: OER erkennen](step1.md)
 
